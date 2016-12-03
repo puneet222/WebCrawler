@@ -1,0 +1,15 @@
+# of Vulnerabilities ---->  
+DoS ---->  100.0
+Code Execution ---->  0.0
+Overflow ---->  0.0
+Memory Corruption ---->  0.0
+Sql Injection ---->  0.0
+XSS ---->  0.0
+Directory Traversal ---->  0.0
+Http Response Splitting ---->  0.0
+Bypass something ---->  0.0
+Gain Information ---->  0.0
+Gain Privileges ---->  100.0
+CSRF ---->  0.0
+File Inclusion ---->  0.0
+# of exploits ---->  
